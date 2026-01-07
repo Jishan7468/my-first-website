@@ -1,0 +1,8 @@
+*{
+    background-color: aliceblue;
+}
+.list li{
+
+    list-style: none;
+    display: inline-block;
+}
